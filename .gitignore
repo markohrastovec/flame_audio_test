@@ -19,3 +19,12 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+.idea/
+android/
+ios/
+web/
+windows/
+linux/
+
+.flutter-plugins*
